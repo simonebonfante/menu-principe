@@ -1,0 +1,815 @@
+{
+  "menu": [
+    {
+      "category": "Primi Piatti",
+      "bg": "primi-piatti.jpg",
+      "items": [
+        {
+          "name": "Lasagna del Principe",
+          "description": "Carne macinata di maiale, pancetta, passata di pomodoro, latte, farina tipo o, sale, olio evo, burro, grana dop, aromi naturali.",
+          "price": "€ 9,00"
+        },
+        {
+          "name": "Lasagna al pesto verde",
+          "description": "Latte, farina tipo o, mandorle, basilico, aglio, olio evo, burro, grana dop, aromi naturali.",
+          "price": "€ 9,00"
+        }
+      ]
+    },
+    {
+      "category": "Secondi Piatti",
+      "bg": "secondi-piatti.jpg",
+      "items": [
+        {
+          "name": "Grigliata mista locale",
+          "description": "Salsiccia, Pancetta, Coppa.",
+          "price": "€ 10,00"
+        },
+        {
+          "name": "Salsiccia alla piastra",
+          "description": "Salsiccia locale.",
+          "price": "€ 7,00"
+        },
+        {
+          "name": "Petto di pollo alla piastra",
+          "description": "Pollo .",
+          "price": "€ 7,00"
+        },
+        {
+          "name": "Insalatona con mozzarella di bufala",
+          "description": "Insalata mista, semi oleosi, scaglie di grana, burrata.",
+          "price": "€ 9,00"
+        },
+        {
+          "name": "Insalatona con tonno",
+          "description": "Insalata mista, semi oleosi, scaglie di grana, filetti di tonno in vetro.",
+          "price": "€ 8,50"
+        },
+        {
+          "name": "Insalatona con uova sode",
+          "description": "Insalata mista, semi oleosi, scaglie di grana, 2 uova sode biologiche.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Caprese",
+          "description": "Pomodoro cuore di bue a fette,  mozzarella di bufala, origano.",
+          "price": "€ 7,50"
+        }
+      ]
+    },
+    {
+      "category": "Contorni",
+      "bg": "contorni.jpg",
+      "items": [
+        {
+          "name": "Insalata mista",
+          "description": "",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "Verdure alla piastra",
+          "description": "Zucchine, melenzane, peperoni, cipolla.",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Spinaci al burro",
+          "description": "Spinaci, burro, sale.",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "Patatine fritte",
+          "description": "",
+          "price": "€ 4,00"
+        }
+      ]
+    },
+    {
+      "category": "Piadine",
+      "bg": "piadina.jpg",
+      "items": [
+        {
+          "name": "Prosciutto crudo",
+          "description": "",
+          "price": "€ 5,50"
+        },
+        {
+          "name": "Prosciutto cotto",
+          "description": "",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Mortadella",
+          "description": "",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Salame",
+          "description": "",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "La contadina",
+          "description": "Salsiccia e cipolle alla piastra.",
+          "price": "€ 6,50"
+        },
+        {
+          "name": "La favolosa del Principe",
+          "description": "Mortadella, burrata, pistacchio",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "La delizia di Parma",
+          "description": "Prosciutto crudo, rucola e squacquerone",
+          "price": "€ 6,50"
+        },
+        {
+          "name": "La montanara",
+          "description": "Prosciutto cotto e fontina",
+          "price": "€ 6,00"
+        },
+        {
+          "name": "La sfiziosa",
+          "description": "Salame, zucchine alla piastra, fontina",
+          "price": "€ 6,50"
+        },
+        {
+          "name": "La gustosa",
+          "description": "Pancetta squacquerone, melanzane",
+          "price": "€ 6,50"
+        },
+        {
+          "name": "La semplice",
+          "description": "Squacquerone e rucola",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "La vegetariana",
+          "description": "Zucchine, melenzane e fontina",
+          "price": "€ 6,50"
+        },
+        {
+          "name": "La caprese",
+          "description": "Pomodoro cuore di bue a fette,  mozzarella di bufala, origano.",
+          "price": "€ 6,50"
+        },
+        {
+          "name": "La dolce",
+          "description": "Nutella Ferrero",
+          "price": "€ 5,00"
+        }
+      ]
+    },
+    {
+      "category": "Crescentine",
+      "bg": "crescentine.jpg",
+      "items": [
+        {
+          "name": "Prosciutto crudo",
+          "description": "",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "Prosciutto cotto",
+          "description": "",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "Mortadella",
+          "description": "",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "Salame",
+          "description": "",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "Vuota",
+          "description": "",
+          "price": "€ 1,50"
+        }
+      ]
+    },
+    {
+      "category": "Tagliere",
+      "bg": "tagliere.jpg",
+      "items": [
+        {
+          "name": "Tagliere (1 persona)",
+          "description": "Salumi e formaggi misti",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Tagliere medio (2 persone)",
+          "description": "Salumi e formaggi misti",
+          "price": "€ 16,00"
+        },
+        {
+          "name": "Tagliere grande (4 persone)",
+          "description": "Salumi e formaggi misti",
+          "price": "€ 32,00"
+        }
+      ]
+    },
+    {
+      "category": "Drink",
+      "bg": "drink.jpg",
+      "items": [
+        {
+          "name": "Spriz Aperol, Cinar, Select, Cinar",
+          "description": "Prosecco, sèlz, ghiaccio, limone o lime o arancia",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Spriz del Principe",
+          "description": "Prosecco, Select, Cinar, Angostura, sèlz, ghiaccio, lime",
+          "price": "€ 6,00"
+        },
+        {
+          "name": "Americano",
+          "description": "Campari, Wermut rosso, sèlz, ghiaccio",
+          "price": "€ 6,00"
+        }
+      ]
+    },
+    {
+      "category": "Cocktails",
+      "bg": "cocktail.jpg",
+      "items": [
+        {
+          "name": "Old fashioned",
+          "description": "Whisky bourbon, Angostura, zolletta di zucchero, sèlz, ghiaccio, scorza di arancia, ciliegina.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Negroni",
+          "description": "Gin, Campari, Vermouth rosso, scorza di arancia, ghiaccio",
+          "price": "€ 7,00"
+        },
+        {
+          "name": "Daiquiri",
+          "description": "Rum bianco, succo e scorza di lime, sciroppo di zucchero.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Cocktail Martini",
+          "description": "Gin, Vermouth dry, scorza di limone e oliva.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Vodkatini",
+          "description": "Vodka, Vermouth dry, scorza di limone e oliva.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Margarita",
+          "description": "Tequila bianca, Triple sec, succo e fetta di lime.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Espresso Martini",
+          "description": "Vodka, liquore al caffè, Sciroppo di zucchero, caffè espresso.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Whisky sour",
+          "description": "Whisky boubon, succo lime, scirippo di zucchero, albume di uovo pastorizzato.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Manhattan",
+          "description": "Whisky boubon, Angostura, Vermouth rosso.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Mojito",
+          "description": "Rum bianco, succo di lime, foglie di menta, zucchero di canna, sèlz. Ghiaccio tritato",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Moscow mule",
+          "description": "Vodka, Ginger beer, succo e fettina di lime, zenzero.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Bloody Mary",
+          "description": "Vodka, succo di pomodoro, succo e fettina di lime, worcestershire sauce, tabasco, sale, pepe, sèlz.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Cosmopolitan",
+          "description": "Vodka, Triple sec, succo e fetta di lime, succo ai mirtilli.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Long island iced tea",
+          "description": "Vodka, Tequila, Rum bianco, Gin, Triple sec, succo e fettina di limone, sciroppo di zucchero, dash coca cola.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Gin lemon",
+          "description": "Gin, tonica al limone, fettina di lime e menta.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Gin tonic",
+          "description": "Gin, tonica con fettina di arancia e rosmarino.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Vodka red bull",
+          "description": "Con ghiaccio e Limone",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Vodka lemon",
+          "description": "Vodka, tonica al limone, fettina di lime e menta.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Vodka tonic",
+          "description": "Vodka, tonica, fettina di lime e menta.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Gin tonic Preminum",
+          "description": "Gin Mare, tonica con fettina di arancia e rosmarino.",
+          "price": "€ 10,00"
+        },
+        {
+          "name": "Gin tonic Preminum",
+          "description": "Gin Portofino, tonica con fettina di arancia e rosmarino.",
+          "price": "€ 12,00"
+        },
+        {
+          "name": "Gin tonic Preminum",
+          "description": "Gin Insulae, tonica con fettina di arancia e rosmarino.",
+          "price": "€ 11,00"
+        },
+        {
+          "name": "Gin tonic Preminum",
+          "description": "Gin Atopia, tonica con fettina di arancia e rosmarino.",
+          "price": "€ 10,00"
+        },
+        {
+          "name": "Gin tonic premium",
+          "description": "Gin Monkey 47, con fettina di arancia e rosmarino",
+          "price": "€ 11,00"
+        },
+        {
+          "name": "Gin tonic premium",
+          "description": "Gin Jinzu, tonica con fettina di arancia e rosmarino.",
+          "price": "€ 11,00"
+        },
+        {
+          "name": "Vodka tonic premium",
+          "description": "Beluga tonica al limone, fettina di lime e menta.",
+          "price": "€ 11,00"
+        },
+        {
+          "name": "Vodka tonic premium",
+          "description": "Belvedere tonica con fettina di arancia e rosmarino.",
+          "price": "€ 10,00"
+        },
+        {
+          "name": "Coca malibù",
+          "description": "Coca cola, Malibù.",
+          "price": "€ 6,00"
+        },
+        {
+          "name": "Amaretto sour",
+          "description": "Di saronno, sciroppo di zucchero, sciroppo di limone, albume d'uovo, fettina d'arancia.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Gin fizz",
+          "description": "Gin, scriroppo di limone, sciroppo di zucchero, sèlz.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Bellini",
+          "description": "Prosecco, polpa di pesca",
+          "price": "€ 6,00"
+        },
+        {
+          "name": "Piña Colada",
+          "description": "Rum bianco, succo di ananas, latte di cocco, ghiaccio tritato, fettina di lime",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Porn Star Martini",
+          "description": "Vodka alla vaniglia, liquore al passion fruit,succo al passion fruit, sciroppo alla vaniglia, Shot prosecco.",
+          "price": "€ 8,00"
+        },
+        {
+          "name": "Caipirinha",
+          "description": "Cachaça, zucchero di canna, lime.",
+          "price": "€ 7,00"
+        },
+        {
+          "name": "Caipirinha",
+          "description": "Cachaça, zucchero di canna, lime.",
+          "price": "€ 7,00"
+        }
+      ]
+    },
+    {
+      "category": "Bibite",
+      "bg": "bibite.jpg",
+      "items": [{
+        "name": "Coca Cola",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Coca zero",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Pepsi max",
+        "description": "",
+        "price": "€ 2,50"
+      },
+      {
+        "name": "Pepsi",
+        "description": "",
+        "price": "€ 2,50"
+      },
+      {
+        "name": "Red bull",
+        "description": "",
+        "price": "€ 3,50"
+      },
+      {
+        "name": "Red Bull zero",
+        "description": "",
+        "price": "€ 3,50"
+      },
+      {
+        "name": "Fanta",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Sprite",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Chinotto in vetro",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Acqua tonica in vetro",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Tea al limone san benedetto",
+        "description": "",
+        "price": "€ 2,50"
+      },
+      {
+        "name": "Tea alla pesca san benedetto",
+        "description": "",
+        "price": "€ 2,50"
+      },
+      {
+        "name": "Succo di frutta in vetro",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Acqua Tonica (Kinley)",
+        "description": "",
+        "price": "€ 3,00"
+      },
+      {
+        "name": "Sanbitter rosso / bianco",
+        "description": "",
+        "price": "€ 2,50"
+      },
+      {
+        "name": "Crodino",
+        "description": "",
+        "price": "€ 2,50"
+      },
+      {
+        "name": "Acqua 50 cl naturale/frizzante",
+        "description": "",
+        "price": "€ 1,00"
+      },
+      {
+        "name": "Acqua 1 L naturale/frizzante",
+        "description": "",
+        "price": "€ 2,00"
+      }]
+    },
+    {
+      "category": "VINO",
+      "bg": "vino.jpg",
+      "items": [
+        {
+          "name": "Alla Spina",
+          "description": "Prosecco in calice 25 cl",
+          "price": "€ 3,00"
+        },
+        {
+          "name": "Alla Spina",
+          "description": "Prosecco caraffa 1L",
+          "price": "€ 10,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Passerina Marche Igp 75 cl",
+          "price": "€ 16,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Pecorino 'Terra degli eremi' IGP 75 cl",
+          "price": "€ 18,50"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Lambrusco IGT 'Otello' ORO CECI",
+          "price": "€ 21,50"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Sangiovese Superiore DOC Mastalso",
+          "price": "€ 12,00"
+        },
+        {
+          "name": "Calice 25 cl",
+          "description": "Sangiovese Superiore DOC Mastalso",
+          "price": "€ 4,50"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Montepulciano D'Abruzzo Doc Ripasso 'Illuminati'",
+          "price": "€ 25,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Prosecco superiore DOCG Valdobbiadene extra Dry 'Ca' Ernesto' 75 cl",
+          "price": "€ 25,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Prosecco superiore DOCG Valdobbiadene Brut 'La gioiosa' 75 cl",
+          "price": "€ 22,50"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Champagne demi sec Veuve Pelletier 75 cl",
+          "price": "€ 69,00"
+        }
+      ]
+    },
+    {
+      "category": "BIRRA",
+      "bg": "birra.jpg",
+      "items": [
+        {
+          "name": "Alla Spina",
+          "description": "Bionda italiana (Pedavena) piccola 25 cl",
+          "price": "€ 3,00"
+        },
+        {
+          "name": "Alla Spina",
+          "description": "Bionda italiana (Pedavena) media 50 cl",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Alla Spina",
+          "description": "Bionda italiana (Pedavena) caraffa da 1 L",
+          "price": "€ 9,00"
+        },
+        {
+          "name": "Alla Spina",
+          "description": "Weiss Bier piccola 25 cl",
+          "price": "€ 3,50"
+        },
+        {
+          "name": "Alla Spina",
+          "description": "Weiss Bier media 50 cl",
+          "price": "€ 6,00"
+        },
+        {
+          "name": "Alla Spina",
+          "description": "Weiss Bier caraffa da 1 L",
+          "price": "€ 11,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Kuchlbauer Aloysius (Weiss Bier) 50 cl",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Schierlinger Pils 50 cl",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Messina 33 cl",
+          "price": "€ 3,50"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Kuchlbauer Zwickl (Bavarese non filtrata) 50 cl",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Moretti analcolica 33 cl",
+          "price": "€ 3,50"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Kuchlbauer Hells (Bionda Bavarese) 50 cl",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "Bottiglia",
+          "description": "Moretti Rossa 33 cl",
+          "price": "€ 3,50"
+        }
+      ]
+    },
+    {
+      "category": "GELATERIA",
+      "bg": "gelato.jpg",
+      "items": [
+        {
+          "name": "CESTINA BABY",
+          "description": "Un gusto",
+          "price": "€ 2,00"
+        },
+        {
+          "name": "COPPETTA O CESTINA PICCOLA",
+          "description": "Due gusti",
+          "price": "€ 2,80"
+        },
+        {
+          "name": "COPPETTA O CESTIN MEDIA",
+          "description": "Tre gusti",
+          "price": "€ 3,40"
+        },
+        {
+          "name": "COPPETTA O CESTINA GRANDE",
+          "description": "Quattro gusti",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "CONO BISCOTTATO PICCOLO",
+          "description": "Due gusti",
+          "price": "€ 3,00"
+        },
+        {
+          "name": "CONO BISCOTTATO MEDIO",
+          "description": "Tre gusti",
+          "price": "€ 3,60"
+        },
+        {
+          "name": "CONO BISCOTTATO GRANDE",
+          "description": "Quattro gusti",
+          "price": "€ 4,20"
+        },
+        {
+          "name": "COPPA GELATO DEL PRINCIPE",
+          "description": "Due gusti a scelta, panna montata, pan di spagna al Rum o alla vaniglia, cioccolato fuso caldo, servito con fiamma viva",
+          "price": "€ 7,50"
+        },
+        {
+          "name": "PANNA MONTATA",
+          "description": "Aggiunta",
+          "price": "€ 0,50"
+        },
+        {
+          "name": "PANNA MONTATA",
+          "description": "Prezzo al Kg",
+          "price": "€ 20,00"
+        },
+        {
+          "name": "GELATO IN VASCHETTA",
+          "description": "Prezzo al Kg",
+          "price": "€ 25,00"
+        },
+        {
+          "name": "TORTE GELATO SU ORDINAZIONE",
+          "description": "Prezzo al Kg",
+          "price": "€ 32,50"
+        },
+        {
+          "name": "FRAPPE'",
+          "description": "Bicchiere Medio 0,33 L",
+          "price": "€ 4,00"
+        },
+        {
+          "name": "FRAPPE'",
+          "description": "Bicchiere Medio 0,50 L",
+          "price": "€ 5,00"
+        },
+        {
+          "name": "GRANITE",
+          "description": "Bicchiere Medio 0,33 L",
+          "price": "€ 3,50"
+        }
+      ]
+    },
+    {
+      "category": "CAFFETTERIA",
+      "bg": "caffe.jpg",
+      "items": [
+        {
+          "name": "Caffè espresso",
+          "description": "",
+          "price": "€ 1,10"
+        },
+        {
+          "name": "Caffè americano",
+          "description": "",
+          "price": "€ 1,30"
+        },
+        {
+          "name": "Caffè d'orzo piccolo",
+          "description": "",
+          "price": "€ 1,30"
+        },
+        {
+          "name": "Caffè d'orzo grande",
+          "description": "",
+          "price": "€ 1,50"
+        },
+        {
+          "name": "Ginseng piccolo",
+          "description": "",
+          "price": "€ 1,30"
+        },
+        {
+          "name": "Ginseng grande",
+          "description": "",
+          "price": "€ 1,50"
+        },
+        {
+          "name": "Caffè deca",
+          "description": "",
+          "price": "€ 1,10"
+        },
+        {
+          "name": "Caffè espresso con pallina di gelato",
+          "description": "",
+          "price": "€ 2,50"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "",
+          "price": "€ 1,60"
+        },
+        {
+          "name": "Mocaccino",
+          "description": "",
+          "price": "€ 1,70"
+        },
+        {
+          "name": "Latte macchiato",
+          "description": "",
+          "price": "€ 1,80"
+        },
+        {
+          "name": "Cappuccino di soia",
+          "description": "",
+          "price": "€ 1,70"
+        },
+        {
+          "name": "Latte macchiato di soia",
+          "description": "",
+          "price": "€ 1,90"
+        },
+        {
+          "name": "Cioccolata calda",
+          "description": "",
+          "price": "€ 2,50"
+        },
+        {
+          "name": "Cioccolata calda con panna montata",
+          "description": "",
+          "price": "€ 3,00"
+        },
+        {
+          "name": "Tea caldo",
+          "description": "",
+          "price": "€ 1,50"
+        },
+        {
+          "name": "Caffè freddo shakerato",
+          "description": "",
+          "price": "€ 3,00"
+        }
+      ]
+    }
+  ]
+}

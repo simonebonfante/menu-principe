@@ -140,7 +140,7 @@ function Main() {
                         <div className="auto-container">
                             <div className="main-box d-flex justify-content-between align-items-center flex-wrap">
 
-                                <div className="links-box clearfix">
+                                {/* <div className="links-box clearfix">
                                     <div className="nav-toggler">
                                         <button className="hidden-bar-opener">
                                             <span className="hamburger" onClick={() => setActive(true)}>
@@ -150,7 +150,7 @@ function Main() {
                                             </span>
                                         </button>
                                     </div>
-                                </div>
+                                </div> */}
 
                                 <div className="logo-box">
                                     <div className="logo"><Link to="/" title="Delici - Restaurants React Template"><img src={logonew} alt="" title="Delici - Restaurants HTML Template" /></Link></div>
@@ -223,14 +223,14 @@ function Main() {
 
                                 </div>
 
-                                <div className="link link-btn">
+                                {/* <div className="link link-btn">
                                     <Link to="/reservation" className="theme-btn btn-style-one clearfix">
                                         <span className="btn-wrap">
                                             <span className="text-one">find a table</span>
                                             <span className="text-two">find a table</span>
                                         </span>
                                     </Link>
-                                </div>
+                                </div> */}
 
                             </div>
                         </div>

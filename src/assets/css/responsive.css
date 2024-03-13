@@ -495,8 +495,11 @@
 	}
 
 	.menu-one{
-		padding-top: 70px;
+		padding-top: 0px;
 		padding-bottom: 30px;
+	}
+	.first-item-menu {
+		padding-top: 70px;
 	}
 
 	.menu-one.alternate .text-col{

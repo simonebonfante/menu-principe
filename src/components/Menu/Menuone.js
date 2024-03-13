@@ -8,10 +8,10 @@ import Img from '../../assets/images/background/banner-image-2.jpg'
 function Menuone() {
   return (
     <>
-      <Bredcom subtitle="Our Menu" title="DELICIOUS & AMAZING" Img={Img} />
+      <Bredcom subtitle="Il nostro menu" title="Il Principe" Img={Img} />
       <Startermenu />
-      <Offer />
-      <Reservation />
+      {/* <Offer /> */}
+      {/* <Reservation /> */}
     </>
   )
 }
